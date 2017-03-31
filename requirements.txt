@@ -6,7 +6,6 @@ sphinx-rtd-theme==0.1.9
 spyder==2.3.8
 SQLAlchemy==1.0.12
 sympy==1.0
-tables==3.2.2
 terminado==0.5
 toolz==0.7.4
 tornado==4.3
