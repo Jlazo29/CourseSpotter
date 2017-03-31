@@ -78,8 +78,12 @@ WSGI_APPLICATION = 'ubcCourseSpotter.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'dbj5dke7k2llc2',
+        'USER': 'tkybpgvuevmgyp',
+        'PASSWORD': 'fce7442d8e5a39771caae45610673a14ff60325a71ed5170748e2f5bd7c95d79',
+        'HOST': 'ec2-23-21-220-167.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
@@ -102,3 +106,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
+
+import dj_database_url
+DATABASES['default'] =  dj_database_url.config()
