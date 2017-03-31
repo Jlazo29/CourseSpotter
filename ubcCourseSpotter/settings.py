@@ -25,7 +25,7 @@ SECRET_KEY = 'leq(d5&b+f3^wbjo*81x68&=o#wfbvj$g2#jf3_x(&&q$#ko$)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'ubc-course-spotter.herokuapp.com']
+ALLOWED_HOSTS = [u'ubc-course-spotter.herokuapp.com', u'127.0.0.1']
 
 
 # Application definition
