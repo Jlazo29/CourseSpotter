@@ -15,6 +15,7 @@ import re
 course_code = re.compile("[A-Z]{4}\s[0-9]{3}")
 course_credit = re.compile("\(\d\)")
 
+
 class Course:
 
     def __init__(self, code, credits, title, desc, prq, equ, corq):
@@ -58,15 +59,16 @@ def new_course(Arr):
         a2 = a2.group()
 
     a1 = a1.group()
+    a1 = a1.replace(" ", "")
 
     # Processing b
     # Basically nothing needed
     b.strip()
 
     # Processing c
-    c1 = '' # Prerequisite
-    c2 = '' # Equivalency
-    c3 = '' # Corequisite
+    c1 = None     # Prerequisite
+    c2 = None   # Equivalency
+    c3 = None     # Corequisite
     for i in c:
         if i.startswith('Prerequisite:'):
             c1 = i.replace('Prerequisite:', '', 1).strip()

@@ -31,19 +31,16 @@ def init_driver():
     return driver
 
 
-def scrape_CPSC(driver):
+def scrape_dept(driver):
     text_inside = driver.find_element_by_tag_name("dl").text
     # print(text_inside)
     return text_inside
 
 
-def go_to_CPSC(driver):
-    driver.get('http://www.calendar.ubc.ca/vancouver/courses.cfm?page=code&institution=12&code=CPSC')
-
-def main():
+def main(dept_code):
     driver = init_driver()
-    go_to_CPSC(driver)
-    contained = scrape_CPSC(driver)
+    driver.get('http://www.calendar.ubc.ca/vancouver/courses.cfm?page=code&institution=12&code=' + dept_code)
+    contained = scrape_dept(driver)
     time.sleep(10)
     driver.quit()
     return contained

@@ -68,3 +68,311 @@ JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Mod
 Gtk-Message: Failed to load module "canberra-gtk-module"
 JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
 JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491269513815	geckodriver	INFO	Listening on 127.0.0.1:58617
+1491269514858	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.c4QIBt3BDdAk
+1491269514859	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491269514860	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40671
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491690564520	geckodriver	INFO	Listening on 127.0.0.1:33707
+1491690565572	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ArBK72yvOoVv
+1491690565573	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491690565574	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35091
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491690887708	geckodriver	INFO	Listening on 127.0.0.1:60166
+1491690888748	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l9SuA4TssDC3
+1491690888749	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491690888750	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33413
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491692358963	geckodriver	INFO	Listening on 127.0.0.1:36012
+1491692360003	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6maotZveMjH6
+1491692360004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491692360005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47319
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491692504619	geckodriver	INFO	Listening on 127.0.0.1:38181
+1491692505660	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JGKbQf8hdjMC
+1491692505660	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491692505662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40051
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491692775711	geckodriver	INFO	Listening on 127.0.0.1:44129
+1491692776750	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oQbxpkFQxVN2
+1491692776751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491692776752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35372
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491692968181	geckodriver	INFO	Listening on 127.0.0.1:33074
+1491692969221	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jK1Ff6oB7KhK
+1491692969221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491692969222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41438
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491693078386	geckodriver	INFO	Listening on 127.0.0.1:52621
+1491693079469	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QF4MyoGhmu9l
+1491693079470	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491693079471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48005
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491693316352	geckodriver	INFO	Listening on 127.0.0.1:49642
+1491693317392	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kCtkYOHFhWBJ
+1491693317393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491693317394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43129
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491693757927	geckodriver	INFO	Listening on 127.0.0.1:58743
+1491693758964	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bdlpIIUBuNUz
+1491693758965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491693758966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47643
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491693878133	geckodriver	INFO	Listening on 127.0.0.1:52553
+1491693879174	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.30oGjJNBnDXp
+1491693879175	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491693879176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33731
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491693974324	geckodriver	INFO	Listening on 127.0.0.1:39709
+1491693975366	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zENJ7aIgvYfm
+1491693975367	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491693975368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45251
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491694196774	geckodriver	INFO	Listening on 127.0.0.1:53370
+1491694197822	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1VB2fuV0H3jL
+1491694197823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491694197824	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34475
+Gtk-Message: Failed to load module "canberra-gtk-module"
+[Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 108"  data: no]
+MarionetteServer.prototype.start@chrome://marionette/content/server.js:108:19
+MarionetteComponent.prototype.init@resource://gre/components/marionettecomponent.js:165:5
+MarionetteComponent.prototype.observe@resource://gre/components/marionettecomponent.js:103:7
+
+1491694259151	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1491694272860	geckodriver	INFO	Listening on 127.0.0.1:42534
+1491694273907	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QAP213A5ZQ6W
+1491694273907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491694273909	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49584
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491694735573	geckodriver	INFO	Listening on 127.0.0.1:57901
+1491694736613	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.piMNY2mcp7cg
+1491694736614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491694736615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33252
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491695209697	geckodriver	INFO	Listening on 127.0.0.1:52389
+1491695210739	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XNlArlcD7TZo
+1491695210739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491695210740	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51626
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491695252217	geckodriver	INFO	Listening on 127.0.0.1:46318
+1491695253263	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pdoa3HIaWOBK
+1491695253264	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491695253265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55408
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491695326323	geckodriver	INFO	Listening on 127.0.0.1:49767
+1491695327364	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.A4XQz3kRX8oB
+1491695327365	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491695327366	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60987
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491695524275	geckodriver	INFO	Listening on 127.0.0.1:34048
+1491695525315	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.INa9Oqf5DgM3
+1491695525316	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491695525317	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51870
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491698312559	geckodriver	INFO	Listening on 127.0.0.1:46793
+1491698313650	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OSoKPAxn0G2u
+1491698313651	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491698313652	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50561
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491698471487	geckodriver	INFO	Listening on 127.0.0.1:48078
+1491698472527	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ODzm3ufGs1gD
+1491698472528	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491698472529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47819
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491698819336	geckodriver	INFO	Listening on 127.0.0.1:42396
+1491698820376	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cqf3mDEtPayt
+1491698820377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491698820378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43543
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491698949053	geckodriver	INFO	Listening on 127.0.0.1:44270
+1491698950093	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tBbrh04G3sWE
+1491698950094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491698950095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50598
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699068925	geckodriver	INFO	Listening on 127.0.0.1:39954
+1491699069964	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nsNtUw9q59ga
+1491699069964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699069965	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35679
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699132260	geckodriver	INFO	Listening on 127.0.0.1:34702
+1491699133299	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ikdT3Cb2fYTY
+1491699133300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699133301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41811
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699222997	geckodriver	INFO	Listening on 127.0.0.1:40431
+1491699224038	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2Mifh7FWtDVw
+1491699224039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699224040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45286
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699333382	geckodriver	INFO	Listening on 127.0.0.1:54248
+1491699334422	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TRtxpB7dXaJe
+1491699334423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699334424	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44423
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699799605	geckodriver	INFO	Listening on 127.0.0.1:37305
+1491699800649	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6devAXkM2qbq
+1491699800650	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699800651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53710
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491699885021	geckodriver	INFO	Listening on 127.0.0.1:38320
+1491699886061	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VbFkobfgTRmd
+1491699886062	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491699886063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54469
+Gtk-Message: Failed to load module "canberra-gtk-module"
+1491700295264	geckodriver	INFO	Listening on 127.0.0.1:41590
+1491700296303	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.51tDX6qW3t6B
+1491700296304	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700296305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53756
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700364747	geckodriver	INFO	Listening on 127.0.0.1:35235
+1491700365796	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ov1HJTIdhBjB
+1491700365797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700365798	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36106
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700382240	geckodriver	INFO	Listening on 127.0.0.1:59003
+1491700383282	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Bys2jIdrlqcF
+1491700383283	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700383284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55126
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700479666	geckodriver	INFO	Listening on 127.0.0.1:49984
+1491700480708	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.phe7xn2QMtjw
+1491700480709	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700480710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49397
+Gtk-Message: Failed to load module "canberra-gtk-module"
+1491700487542	geckodriver	INFO	Listening on 127.0.0.1:55824
+1491700488583	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YQtmCM64ZvHZ
+1491700488584	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700488585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47048
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700520581	geckodriver	INFO	Listening on 127.0.0.1:39869
+1491700521621	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3uENo7SJg2OH
+1491700521622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700521623	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34164
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700736903	geckodriver	INFO	Listening on 127.0.0.1:60889
+1491700737943	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.M4NTkqQxcSOk
+1491700737943	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700737944	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44036
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700807672	geckodriver	INFO	Listening on 127.0.0.1:53105
+1491700808715	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lXpNYo3AHUoO
+1491700808716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700808717	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40522
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700830665	geckodriver	INFO	Listening on 127.0.0.1:55659
+1491700831706	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RJoVgXMwFhSh
+1491700831706	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700831707	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59056
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700893277	geckodriver	INFO	Listening on 127.0.0.1:59015
+1491700894319	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PTcbtZm0S34W
+1491700894320	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700894321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59984
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491700968074	geckodriver	INFO	Listening on 127.0.0.1:51315
+1491700969113	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.v2xQYR8GXsI6
+1491700969114	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491700969115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60514
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491701034065	geckodriver	INFO	Listening on 127.0.0.1:51818
+1491701035104	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.esqmSXYrBcHV
+1491701035105	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491701035106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54300
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491701187091	geckodriver	INFO	Listening on 127.0.0.1:44740
+1491701188132	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IzRo0dXstqFr
+1491701188133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491701188134	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34122
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491701244818	geckodriver	INFO	Listening on 127.0.0.1:42085
+1491701245863	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SMdVUo4CynUv
+1491701245864	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491701245865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36201
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
+1491701352035	geckodriver	INFO	Listening on 127.0.0.1:41668
+1491701353074	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ttifrwSTj0Tq
+1491701353075	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1491701353076	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52599
+Gtk-Message: Failed to load module "canberra-gtk-module"
+JavaScript warning: http://www.calendar.ubc.ca/_ubc_clf/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.google.com/uds/?file=feeds&v=1, line 1: Error: Module: 'feeds' not found!
